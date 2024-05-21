@@ -1,4 +1,6 @@
 # Projeto Calculadora
+## Descrição do Projeto
+O Projeto consistia em criarmos uma Calculadora.
 ## Tecnologias Utilizadas
 * HTML
 * CSS
